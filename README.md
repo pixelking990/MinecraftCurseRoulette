@@ -89,3 +89,5 @@ Want to chat, share feedback, or get support? **Join our community!**
 ## 🎮 Try It Now!  
 Are you **brave enough** to handle the madness of **Curse Roulette?** Download it today and test your luck! 🎰🔥  
 Realease date: 3rd May, 2025
+
+_@2025 Pixel's Mods_
