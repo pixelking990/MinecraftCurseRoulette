@@ -79,11 +79,10 @@ Not everything is bad—some effects **help you** (but only for a while)!
 
 ---
 
-## 📢 Support & Contributions  
-Have an idea for a crazy effect? Found a bug?  
-- Submit an **issue** on GitHub.  
-- Contribute by making a **pull request**!  
-- Join our **Discord server** (if applicable).  
+## 📢 Join Our Discord!  
+Want to chat, share feedback, or get support? **Join our community!**  
+
+🔗 [Click here to join the Curse Roulette Discord!](https://discord.gg/qk6fSXRG9M)
 
 ---
 
